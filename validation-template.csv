@@ -1,0 +1,5 @@
+respondent_id,segment,real_preference_score,predicted_preference_score,real_purchase_intent,predicted_purchase_intent
+R001,budget-conscious,4,3.5,1,1
+R002,quality-focused,3,3.2,0,1
+R003,sustainability-minded,5,4.2,1,1
+R004,convenience-seeker,2,2.8,0,0
